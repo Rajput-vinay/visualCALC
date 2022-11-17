@@ -1,0 +1,71 @@
+*{
+    color: rgb(64, 39, 155);
+    background-color: rgb(218, 228, 225);
+    letter-spacing: 1px bold;
+}
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+.text-center{
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 28px;
+
+}
+
+
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    color: aqua;
+    flex-direction: column;
+}
+.item-center{
+    text-align: center;
+}
+
+.button{
+
+   width: 66px;
+   padding: 35px;
+   margin: 0px 3px;
+   border: 2px solid black ;
+   cursor: pointer;
+   color: rgb(12, 12, 13);
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    color: rgb(104, 20, 223);
+    width: 319px;
+    margin: 0;
+    font-size: 18px;
+    padding: 10px 0px ;
+    border: 2px solid;
+    border-radius: 10px;
+}
+.rajput{
+    color: rgba(250, 8, 24, 0.973);
+    font-weight: 1000;
+    
+    
+
+}
+#Histroy{
+    text-align: center;
+    text-decoration:none;
+    text-transform: capitalize;
+    word-spacing: 15px;
+    color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+ p .rajput{
+    color: white;
+}
